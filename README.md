@@ -1,16 +1,13 @@
-## Hi there 👋
+# Brice McConnell, MD, PhD
 
-<!--
-**bricemcconnell/bricemcconnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a physician-scientist and behavioral neurologist studying what the sleeping brain can tell us about brain and body health.
 
-Here are some ideas to get you started:
+My research brings together sleep neuroscience, EEG signal processing, computational physiology, and deep learning. I study the structure and timing of slow waves, spindles, and theta bursts, and develop approaches to measuring sleep physiology with wearable devices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m interested in how neural communication during sleep supports health, how those patterns change with aging and disease, and how we can make meaningful physiological measurements accessible at home.
+
+## Research and projects
+
+Visit [bricemcconnell.com](https://bricemcconnell.com/) for my research interests, publications, talks, and ongoing projects.
+
+Public projects shared here will include scientific visualization tools and reproducible examples related to my work.
